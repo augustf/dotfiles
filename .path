@@ -1,0 +1,2 @@
+#A good path setting for an OSX machine using macports and in particular the mysql55 port
+export PATH=/opt/local/bin:/opt/local/sbin:/opt/local/lib/mysql55/bin:/opt/local/lib/postgresql93/bin/:$PATH
